@@ -1,4 +1,4 @@
-# flutter_tubi
+# flutter_tv_app
 
 A movie app building with Flutter for fun.
 
